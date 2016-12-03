@@ -208,7 +208,7 @@ footer {
 }
 
 .line2_1 {
-  text-decoration: underline;
+  text-transform: uppercase;
 }
 
 .line3 {
@@ -1837,7 +1837,7 @@ section {
   left: -71.5px;
   border-bottom: 1px solid rgba(0,0,0,0.6);
   background-color: rgba(0,0,0,0.6);
-  border-radius: 0px 0px 0px 0px;
+  border-radius: 0px 0px 10px 10px;
   z-index: 5;
   }
 
